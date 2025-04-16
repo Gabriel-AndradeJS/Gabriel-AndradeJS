@@ -25,12 +25,13 @@
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="30" style="background-color: white; padding: 2px;"/>
-        <img src="https://nestjs.com/img/logo-small.791e8a01.png" alt="NestJS" width="30"/>
+        <img src="https://icon-icons.com/downloadimage.php?id=146379&root=2415/PNG/512/&file=nestjs_icon_146379.png" alt="NestJS" width="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30"/>
       </td>
     </tr>
   </tbody>
 </table>
+
 
 
 
