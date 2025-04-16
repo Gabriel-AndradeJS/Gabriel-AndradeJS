@@ -25,12 +25,13 @@
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="30" style="background-color: white; padding: 2px;"/>
-        <img src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg](https://images.icon-icons.com/2699/PNG/512/nestjs_logo_icon_168087.png)](https://camo.githubusercontent.com/f417600bb614bd11737b52035c0a5eba21e16a68f2f881c83444829f74917612/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6573746a732d4530323334453f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465)" alt="NestJS" width="30"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/NestJS.svg" alt="NestJS" width="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30"/>
       </td>
     </tr>
   </tbody>
 </table>
+
 
 
 
