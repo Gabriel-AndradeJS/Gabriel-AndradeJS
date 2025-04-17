@@ -4,10 +4,6 @@
 
 Seja bem-vindo ao meu repositório! Aqui compartilho projetos e experiências com as mais diversas tecnologias. Vamos criar algo incrível juntos! 💡
 
-
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Gabriel_Dev/b0705488-16e5-44d1-8347-11ae0d4a38c5.png" /></a>
-
 <h2>🛠 Tecnologias Utilizadas</h2>
   <table>
     <thead>
@@ -47,6 +43,11 @@ Seja bem-vindo ao meu repositório! Aqui compartilho projetos e experiências co
       </tr>
     </tbody>
   </table>
+
+
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Gabriel_Dev/b0705488-16e5-44d1-8347-11ae0d4a38c5.png" /></a>
+
 
 
 
