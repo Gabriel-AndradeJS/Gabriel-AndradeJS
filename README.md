@@ -46,7 +46,7 @@ Seja bem-vindo ao meu repositório! Aqui compartilho projetos e experiências co
 
 
 
-<a href="https://wakatime.com/@9a5325f6-5e21-41ce-b1a7-c5dd37067cb2"><img src="https://wakatime.com/badge/user/9a5325f6-5e21-41ce-b1a7-c5dd37067cb2.svg" alt="Total time coded since Apr 3 2025" /></a>
+<img src="https://wakatime.com/badger/user/9a5325f6-5e21-41ce-b1a7-c5dd37067cb2.svg" alt="Git" width="100"/>
 
 
 
