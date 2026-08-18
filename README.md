@@ -46,7 +46,7 @@ Seja bem-vindo ao meu repositório! Aqui compartilho projetos e experiências co
 
 
 
-<img src="https://wakatime.com/badger/user/9a5325f6-5e21-41ce-b1a7-c5dd37067cb2.svg" alt="Git" width="100"/>
+<img src="https://wakatime.com/badge/user/9a5325f6-5e21-41ce-b1a7-c5dd37067cb2.svg" alt="Git" width="100"/>
 
 
 
